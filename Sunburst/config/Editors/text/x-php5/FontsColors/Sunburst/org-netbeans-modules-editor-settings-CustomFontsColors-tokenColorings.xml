@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor foreColor="ff1793f0" name="PHP_VARIABLE"/>
+    <fontcolor foreColor="white" name="mod-method"/>
+    <fontcolor foreColor="ff3f9ad6" name="mod-private"/>
+    <fontcolor default="identifier" foreColor="ffe1d797" name="PHP_STRING"/>
+    <fontcolor foreColor="ff3f9ad6" name="mod-protected"/>
+    <fontcolor name="mod-deprecated" strikeThrough="darkGray"/>
+    <fontcolor bgColor="darkGray" name="mark-occurrences"/>
+    <fontcolor name="mod-abstract"/>
+    <fontcolor default="field" foreColor="white" name="mod-field"/>
+    <fontcolor foreColor="ff1793f0" name="heredocdelimiter"/>
+    <fontcolor foreColor="white" name="phpopenclose"/>
+    <fontcolor foreColor="white" name="PHP_CONTENT"/>
+    <fontcolor foreColor="ff3f9ad6" name="mod-public"/>
+    <fontcolor name="mod-constructor"/>
+    <fontcolor name="mod-local-variable"/>
+    <fontcolor bgColor="darkGray" default="constant" foreColor="ffe99c77" name="constant"/>
+    <fontcolor foreColor="ffa06001" name="mod-parameter"/>
+    <fontcolor default="keyword" name="keyword"/>
+    <fontcolor name="mod-static"/>
+    <fontcolor default="operator" name="operator"/>
+    <fontcolor foreColor="ffac98ad" name="mod-class"/>
+    <fontcolor name="T_INLINE_HTML"/>
+    <fontcolor name="mod-unused" waveUnderlined="ff999999"/>
+    <fontcolor default="string" name="string"/>
+    <fontcolor default="comment" foreColor="ffe99c77" name="phpdockeyword"/>
+    <fontcolor default="comment" name="comment"/>
+    <fontcolor default="identifier" name="identifier"/>
+    <fontcolor default="separator" name="separator"/>
+</fontscolors>
